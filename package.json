@@ -1,0 +1,19 @@
+{
+  "name": "json-compare-lite",
+  "version": "1.0.0",
+  "description": "A simple module to compare two JSON objects and return the differences.",
+  "main": "index.js",
+  "scripts": {
+   "test": "node test.js"
+  },
+  "keywords": [
+    "json",
+    "comparator",
+    "compare",
+    "diff",
+    "differences",
+    "javascript"
+  ],
+  "author": "Vaishnavi Madalapure",
+  "license": "ISC"
+}
